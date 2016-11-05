@@ -1,6 +1,12 @@
-.gradle/
 gradle/
 *.iml
 *.ipr
 *.iws
 out/
+config/build/
+discovery/build/
+monitor/build/
+person/build/
+some/build/
+ui/build/
+.gradle/2.2.1
